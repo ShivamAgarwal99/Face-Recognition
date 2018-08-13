@@ -4,7 +4,7 @@ To make code run follow the following steps:
 
 2. Create two new sub folders 'dataset' and 'trainer' in same main folder.
 
-3.First run detection.py then trainer.py to feed results and train them.
+3. First run detection.py then trainer.py to feed results and train them.
 
-4.And at last run recognizer.py to see the results.
+4. And at last run recognizer.py to see the results.
 
