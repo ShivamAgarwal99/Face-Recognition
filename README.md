@@ -1,4 +1,11 @@
 # Face-Recognizer
+
+• Developed novel applications for face recognition in automatic attendance and home security.
+
+• Implemented Local Binary Patterns Histograms and K-Nearest Neighbour in OpenCV.
+
+• Achieved 74% accuracy using moderate resolution web camera images.
+
 To make code run follow the following steps:
 1. Put all the files in a single folder.
 
